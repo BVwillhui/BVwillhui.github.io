@@ -97,7 +97,26 @@ var __st={"a":4227341,"offset":-21600,"reqid":"5c14a197-e76f-4244-ba16-0baa143cf
 
   <!-- load BV loader -->
 <script type="text/javascript" src="https://display.ugc.bazaarvoice.com/bvstaging/static/ie-whui/en_AU/bvapi.js"></script>
-
+<!--load Transaction event and parameters-->
+<script type="text/javascript">
+BV.pixel.trackTransaction({
+  "currency" : "value",
+  "orderId" : "value",
+  "total" : "value",
+  "items" : [
+    {
+      "price" : "value",
+      "quantity" : "value",
+      "sku" : "value",
+    },
+    ...
+  ],
+  "name" : "value",
+  ...
+  "email" : "value",
+  ...
+});
+</script>
 </head>
 
 <body>
