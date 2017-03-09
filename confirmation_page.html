@@ -97,26 +97,7 @@ var __st={"a":4227341,"offset":-21600,"reqid":"5c14a197-e76f-4244-ba16-0baa143cf
 
   <!-- load BV loader -->
 <script type="text/javascript" src="https://apps.bazaarvoice.com/deployments/ie-whui/main_site/staging/en_AU/bv.js"></script>
-<!--load Transaction event and parameters-->
-<script type="text/javascript">
-BV.pixel.trackTransaction({
-  "currency" : "value",
-  "orderId" : "value",
-  "total" : "value",
-  "items" : [
-    {
-      "price" : "value",
-      "quantity" : "value",
-      "sku" : "value"
-    },
-    ...
-  ],
-  "name" : "value",
-  ...
-  "email" : "value",
-  ...
-});
-</script>
+
 
 </head>
 
@@ -397,7 +378,26 @@ body {
   <!-- End footer -->
 
   <script src="https://web.archive.org/web/20151120052756js_/http://cdn.shopify.com/s/files/1/0422/7341/t/4/assets/scripts.js?4423945333732105206" type="text/javascript"></script>
-
+  <!--load Transaction event and parameters-->
+  <script type="text/javascript">
+  BV.pixel.trackTransaction({
+    "currency" : "value",
+    "orderId" : "value",
+    "total" : "value",
+    "items" : [
+      {
+        "price" : "value",
+        "quantity" : "value",
+        "sku" : "value"
+      },
+      ...
+    ],
+    "name" : "value",
+    ...
+    "email" : "value",
+    ...
+  });
+  </script>
 
 </body>
 </html>
