@@ -122,6 +122,15 @@
    containerPrefix : 'BVRRInlineRating'
 });
 </script>
+<script>
+$BV.configure('global', {
+  events : {
+    bvRender : function (data) {
+      console.log(data);
+    }
+  }
+});
+</script>
 </head>
 
 <body>

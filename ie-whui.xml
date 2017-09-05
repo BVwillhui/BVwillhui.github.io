@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Feed name="ie-whui" extractDate="2017-08-21T09:50:10+10:00" incremental="false" xmlns="http://www.bazaarvoice.com/xs/PRR/ProductFeed/14.7">
+    <!-- Brands go here -->
+    <Brands>
+        <Brand>
+            <ExternalId>doodles</ExternalId>
+            <Name>Del Vento's Doodles</Name>
+        </Brand>
+    </Brands>
+    <!-- Categories go here -->
+    <Categories>
+        <Category>
+            <ExternalId>artwork</ExternalId>
+            <Name>Artwork</Name>
+            <CategoryPageUrl>https://bvwillhui.github.io/ie-onboarding-mock-implementation/</CategoryPageUrl>
+        </Category>
+        <Category>
+            <ExternalId>tshirts</ExternalId>
+            <Name>T-shirts</Name>
+            <CategoryPageUrl>https://bvwillhui.github.io/ie-onboarding-mock-implementation/</CategoryPageUrl>
+        </Category>
+    </Categories>
+    <!-- Products go here -->
+    <Products>
+        <Product>
+            <ExternalId>Product1</ExternalId>
+            <Name>Boom Shakalaka Spider in Stream - 4 x 6 - Signed Reprint - 1 of 25</Name>
+            <Description></Description>
+            <CategoryExternalId>artwork</CategoryExternalId>
+            <ProductPageUrl>https://bvwillhui.github.io/ie-onboarding-mock-implementation/boom-shakalaka-spider-in-stream-4-x-6-signed-reprint-1-of-25.html</ProductPageUrl>
+            <ImageUrl>https://bvwillhui.github.io/ie-onboarding-mock-implementation/static/boom-shakalaka-reprint-color_8e754d6d-5903-44b3-81ce-dd85950df1e4_large.png</ImageUrl>
+            <BrandExternalId>doodles</BrandExternalId>
+        </Product>
+        <Product>
+            <ExternalId>Product2</ExternalId>
+            <Name>Boom Shakalaka Spider in Stream - 8 x 10 - Signed Reprint - 1 of 25</Name>
+            <Description></Description>
+            <CategoryExternalId>artwork</CategoryExternalId>
+            <ProductPageUrl>https://bvwillhui.github.io/ie-onboarding-mock-implementation/boom-shakalaka-spider-in-stream-8-x-10-signed-reprint-1-of-25.html</ProductPageUrl>
+            <ImageUrl>https://bvwillhui.github.io/ie-onboarding-mock-implementation/static/boom-shakalaka-reprint-color_8e754d6d-5903-44b3-81ce-dd85950df1e4_large.png</ImageUrl>
+            <BrandExternalId>doodles</BrandExternalId>
+        </Product>
+        <Product>
+            <ExternalId>Product3</ExternalId>
+            <Name>Boom Shakalaka Spider in Stream - Original Artwork 1 of 1</Name>
+            <Description></Description>
+            <CategoryExternalId>artwork</CategoryExternalId>
+            <ProductPageUrl>https://bvwillhui.github.io/ie-onboarding-mock-implementation/boom-shakalaka-spider-in-stream-original-artwork-1-of-1.html</ProductPageUrl>
+            <ImageUrl>https://bvwillhui.github.io/ie-onboarding-mock-implementation/static/boom-shakalaka-reprint-color_8e754d6d-5903-44b3-81ce-dd85950df1e4_large.png</ImageUrl>
+            <BrandExternalId>doodles</BrandExternalId>
+        </Product>
+        <Product>
+            <ExternalId>Product4</ExternalId>
+            <Name>Boom Shakalaka Spider in Stream - Printed T</Name>
+            <Description></Description>
+            <CategoryExternalId>artwork</CategoryExternalId>
+            <ProductPageUrl>https://bvwillhui.github.io/ie-onboarding-mock-implementation/boom-shakalaka-spider-in-stream-printed-t.html</ProductPageUrl>
+            <ImageUrl>https://bvwillhui.github.io/ie-onboarding-mock-implementation/static/boom-shakalaka-shirt-front_large.png</ImageUrl>
+            <BrandExternalId>doodles</BrandExternalId>
+        </Product>
+    </Products>
+</Feed>
