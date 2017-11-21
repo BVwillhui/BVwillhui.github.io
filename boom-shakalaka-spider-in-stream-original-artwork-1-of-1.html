@@ -600,11 +600,15 @@ body {
   </script>
   <script>
   window.bvCallback = function(BV) {
-
+      BV.reviews.on('show', function(e) {
+        e.preventDefault();
+        $('.bv_stars_button_container.bv_ffs_hover').on('click', function(){
           console.log('click')
           $('html, body').animate({ scrollTop: $('#BVRRContainer').offset().top - 330 }, 0)
           return false;
-
+        }
+        )
+      });
   };
 </script>
 </body>
