@@ -415,7 +415,7 @@ body {
     <div data-bv-show="reviews" data-bv-productId="Product3"></div>
 
     <div data-bv-show="questions" data-bv-productId="Product3"></div>
-    
+
   </div>
 
   <!-- Begin related product -->
@@ -598,7 +598,16 @@ body {
   });
   //End product-options script
   </script>
-
+  <script>
+  window.bvCallback = function(BV) {
+      BV.reviews.on('show', function(e) {
+          e.preventDefault();
+          console.log('click')
+          $('html, body').animate({ scrollTop: $('#BVRRContainer').offset().top - 330 }, 0)
+          return false;
+      });
+  };
+</script>
 </body>
 </html>
 
