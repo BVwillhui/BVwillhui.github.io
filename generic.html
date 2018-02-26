@@ -22,10 +22,23 @@
         <script async src="https://apps.bazaarvoice.com/deployments/ie-whui/generic/staging/en_AU/bv.js"></script>
     </head>
 
-    <body>
-      <img src="./static/home_logo.jpg" alt="" />
-      <h1>Generic submission form</h1>
-      <div data-bv-show="product_picker"></div>
+    <body> <img src="./static/home_logo.jpg" alt="" />
+        <h1>Generic submission form</h1> 
+        <button id="grs">Lightbox version</button>
+        <div id="grs_container"></div>
+        <script type="text/javascript">
+            function submitGeneric(event) {
+                var elem = document.createElement('div');
+                elem.setAttribute('data-bv-show', 'product_picker');
+                // Set any other options you would like.
+                elem.setAttribute('data-bv-category-id', 'sampleCategory');
+                // Inject the element into the page.
+                document.getElementById('grs_container').appendChild(elem);
+            }
+            document.getElementById('grs').addEventListener('click', submitGeneric);
+        </script>
+        <hr>
+        <div data-bv-show="product_picker"></div>
     </body>
 
 </html>
