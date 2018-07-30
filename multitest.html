@@ -20,8 +20,8 @@
             <h1 class="display-4">Pricing</h1>
             <p class="lead">Quickly build an effective pricing table for your potential customers with this Bootstrap example. It's built with default Bootstrap components and utilities with little customization.</p>
         </div>
-        <div class="container">
-            <div class="card-deck mb-3 text-center">
+        <div class="container text-center">
+            <div class="card-deck mb-3">
                 <div class="card mb-4 box-shadow">
                     <div class="card-header">
                         <h4 class="my-0 font-weight-normal">Free</h4> </div>
@@ -33,7 +33,7 @@
                             <li>Email support</li>
                             <li>Help center access</li>
                         </ul>
-                        <div data-bv-show="rating_summary" data-bv-productId="Product1"></div>
+                        <div data-bv-show="inline_rating" data-bv-product-id="Product1"></div>
                     </div>
                     <div id="accordion">
                         <div class="card">
@@ -48,9 +48,9 @@
                                     Reviews
                                   </button>
                                 </h5> </div>
-                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                            <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
                                 <div class="card-body">
-                                    <!-- <div data-bv-show="reviews" data-bv-productId="Product1"></div> -->
+                                    <div class="embed-responsive embed-responsive-4by3"> <iframe class="embed-responsive-item" src="/product1.html"></iframe> </div>
                                 </div>
                             </div>
                         </div>
@@ -68,7 +68,7 @@
                         <li>Priority email support</li>
                         <li>Help center access</li>
                     </ul>
-                    <div data-bv-show="rating_summary" data-bv-productId="Product2"></div>
+                    <div data-bv-show="inline_rating" data-bv-product-id="Product2"></div>
                 </div>
                 <div id="accordion">
                     <div class="card">
@@ -77,16 +77,14 @@
                               <button
                               class="btn btn-link"
                               data-toggle="collapse"
-                              data-target="#collapseOne"
+                              data-target="#collapseTwo"
                               aria-expanded="true"
-                              aria-controls="collapseOne">
+                              aria-controls="collapseTwo">
                                 Reviews
                               </button>
                             </h5> </div>
-                        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
-                            <div class="card-body">
-                                <div data-bv-show="reviews" data-bv-productId="Product2"></div>
-                            </div>
+                        <div id="collapseTwo" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                            <div class="card-body"> <div class="embed-responsive embed-responsive-4by3"> <iframe class="embed-responsive-item" src="/product2.html"></iframe> </div></div>
                         </div>
                     </div>
                 </div>
@@ -102,7 +100,7 @@
                         <li>Phone and email support</li>
                         <li>Help center access</li>
                     </ul>
-                    <div data-bv-show="rating_summary" data-bv-productId="Product3"></div>
+                    <div data-bv-show="inline_rating" data-bv-product-id="Product3"></div>
                 </div>
                 <div id="accordion">
                     <div class="card">
@@ -111,16 +109,15 @@
                           <button
                           class="btn btn-link"
                           data-toggle="collapse"
-                          data-target="#collapseOne"
+                          data-target="#collapseThree"
                           aria-expanded="true"
-                          aria-controls="collapseOne">
+                          aria-controls="collapseThree">
                             Reviews
                           </button>
                         </h5> </div>
-                        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                        <div id="collapseThree" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
                             <div class="card-body">
-                                <div data-bv-show="reviews" data-bv-productId="Product3"></div>
-                            </div>
+                                <div class="embed-responsive embed-responsive-4by3"> <iframe class="embed-responsive-item" src="/product3.html"></iframe> </div></div>
                         </div>
                     </div>
                 </div>
@@ -168,15 +165,22 @@
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-        <script src="https://getbootstrap.com/assets/js/vendor/holder.min.js"></script>
+        <!-- <script src="https://getbootstrap.com/assets/js/vendor/holder.min.js"></script>
         <script>
             Holder.addTheme('thumb', {
                 bg: '#55595c',
                 fg: '#eceeef',
                 text: 'Thumbnail'
             });
-        </script>
+        </script> -->
         <script async src="https://apps.bazaarvoice.com/deployments/ie-whui/original/staging/en_AU/bv.js"></script>
+        <!-- <script>
+            // bvCallback must be used when interacting with BV via JavaScript and using the `async` attribute.
+            window.bvCallback = function (BV) {
+                      $('#collapseTwo').addClass('show');
+
+            };
+          </script> -->
     </body>
 
 </html>

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+    box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+	float: left;
+    width: 33.3%;
+	height: 780px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+</style>
+<script async src="https://apps.bazaarvoice.com/deployments/remington-au/main_site/staging/en_AU/bv.js"></script>
+	<div id="grs_container"></div>
+
+<style>
+.button {
+    background-color: #FF3333;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div class="column" align="right"><img src="LANDING_PAGE_1170X780_LEFT.png" width="405" height="780" alt=""/></div>
+  <div class="column" style="background-color:#000000;" align="center"><img src="LANDING_PAGE_1170X780_TOP-CENTER.png" alt=""/>
+	  <div><button class="button" id="grs">Submit your Review</button></div></div>
+  <div class="column"><img src="LANDING_PAGE_1170X780_RIGHT.png" width="405" height="780" alt=""/></div>
+</div>
+<script type="text/javascript">
+            function submitGeneric(event) {
+                var elem = document.createElement('div');
+                elem.setAttribute('data-bv-show', 'product_picker');
+                elem.setAttribute('data-bv-inline', false);
+                document.getElementById('grs_container').appendChild(elem);
+            }
+            document.getElementById('grs').addEventListener('click', submitGeneric);
+</script>
+</body>
+</html>
