@@ -1,23 +1,11 @@
-<!doctype html>
-<!--[if lt IE 7]><html class="no-js ie6 oldie" lang="en"><![endif]-->
-<!--[if IE 7]><html class="no-js ie7 oldie" lang="en"><![endif]-->
-<!--[if IE 8]><html class="no-js ie8 oldie" lang="en"><![endif]-->
-<!--[if gt IE 8]><!-->
-<html class="no-js" lang="en">
-    <!--<![endif]-->
-
-    <head>
-        <meta charset="utf-8">
-        <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-        <title> Samsung test page </title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <script async src="https://apps.bazaarvoice.com/deployments/ie-whui/generic/staging/en_AU/bv.js"></script>
-        <script
-  src="https://code.jquery.com/jquery-3.3.1.js"
-  integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
-  crossorigin="anonymous"></script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <script async src="https://apps.bazaarvoice.com/deployments/samsung/generic/staging/en_AU/bv.js"></script>
     </head>
-
     <body>
         <h1>Samsung Generic submission form</h1>
         <p>Some text to explain incentive program</p>
@@ -28,13 +16,9 @@
                 var elem = document.createElement('div');
                 elem.setAttribute('data-bv-show', 'product_picker');
                 elem.setAttribute('data-bv-inline', false);
-                // Set any other options you would like.
-                // elem.setAttribute('data-bv-category-id', 'sampleCategory');
-                // Inject the element into the page.
                 document.getElementById('grs_container').appendChild(elem);
             }
             document.getElementById('grs').addEventListener('click', submitGeneric);
         </script>
     </body>
-
 </html>
