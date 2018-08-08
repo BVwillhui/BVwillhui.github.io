@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>test page</title>
+</head>
+<body>
+  <a href="https://www.bigw.com.au/product/remington-rapid-cut-hair-clipper/p/WCC100000000300987/" onclick="pixel(); return false;">BigW</a>
+
+<script>
+      function pixel(){
+        window.open("https://www.bigw.com.au/product/remington-rapid-cut-hair-clipper/p/WCC100000000300987/");
+        window.bvCallback = function (BV) {
+          BV.pixel.trackConversion({
+            "type": "DealerLocator",
+            "label": "ProductPage",
+            "value": "name"
+          });
+        };
+      }
+</script>
+  <script async src="https://apps.bazaarvoice.com/deployments/ie-whui/original/staging/en_AU/bv.js"></script>
+</body>
+</html>
