@@ -5,15 +5,21 @@
         <meta charset="utf-8" />
         <title></title>
         <meta name="robots" content="noindex, nofollow">
-        <link rel="canonical" href="container.html" /> </head>
+        <!-- You can use either the relative or the absolute path to the canonical URL. For example, if the page is hosted -->
+        <!-- at http://www.example.com/path/to/container.html, you can enter the canonical URL "container.html" or the full path. -->
+        <link rel="canonical" href="container.htm" />
+        <meta name="bv:pageType" content="container"> </head>
 
     <body>
-        <script  src="https://apps.bazaarvoice.com/deployments/ie-whui/redirect/staging/en_AU/bv.js"></script>
+        <script type="text/javascript" src="https://apps.bazaarvoice.com/deployments/ie-whui/redirect/staging/en_AU/bv.js"></script>
         <script>
-            $BV.container('global', {});
-            $BV.configure('global', {
-                returnUrl: 'http://www.reddit.com'
-            });
+            $BV.configure('global', {      
+                events: {    
+                    submissionSubmitted: function(data) {    
+                        window.location.assign("https://www.reddit.com");
+                    }
+                }
+            })
         </script>
     </body>
 
