@@ -39,6 +39,14 @@
             <ProductPageUrl>https://bvwillhui.github.io/ie-onboarding-mock-implementation/boom-shakalaka-spider-in-stream-8-x-10-signed-reprint-1-of-25.html</ProductPageUrl>
             <ImageUrl>https://bvwillhui.github.io/ie-onboarding-mock-implementation/static/boom-shakalaka-reprint-color_8e754d6d-5903-44b3-81ce-dd85950df1e4_large.png</ImageUrl>
             <BrandExternalId>doodles</BrandExternalId>
+            <Attributes>
+                <Attribute id="BV_FE_FAMILY">
+                    <Value>family_two</Value>
+                </Attribute>
+                <Attribute id="BV_FE_EXPAND">
+                    <Value>BV_FE_FAMILY:family_two</Value>
+                </Attribute>
+            </Attributes>
         </Product>
         <Product>
             <ExternalId>Product3</ExternalId>
@@ -48,6 +56,17 @@
             <ProductPageUrl>https://bvwillhui.github.io/ie-onboarding-mock-implementation/boom-shakalaka-spider-in-stream-original-artwork-1-of-1.html</ProductPageUrl>
             <ImageUrl>https://bvwillhui.github.io/ie-onboarding-mock-implementation/static/boom-shakalaka-reprint-color_8e754d6d-5903-44b3-81ce-dd85950df1e4_large.png</ImageUrl>
             <BrandExternalId>doodles</BrandExternalId>
+            <Attributes>
+                <Attribute id="BV_FE_FAMILY">
+                    <Value>family_one</Value>
+                </Attribute>
+                <Attribute id="BV_FE_FAMILY">
+                    <Value>family_two</Value>
+                </Attribute>
+                <Attribute id="BV_FE_EXPAND">
+                    <Value>BV_FE_FAMILY:family_one</Value>
+                </Attribute>
+            </Attributes>
         </Product>
         <Product>
             <ExternalId>Product4</ExternalId>
@@ -57,6 +76,11 @@
             <ProductPageUrl>https://bvwillhui.github.io/ie-onboarding-mock-implementation/boom-shakalaka-spider-in-stream-printed-t.html</ProductPageUrl>
             <ImageUrl>https://bvwillhui.github.io/ie-onboarding-mock-implementation/static/boom-shakalaka-shirt-front_large.png</ImageUrl>
             <BrandExternalId>doodles</BrandExternalId>
+            <Attributes>
+                <Attribute id="BV_FE_FAMILY">
+                    <Value>family_one</Value>
+                </Attribute>
+            </Attributes>
         </Product>
     </Products>
 </Feed>

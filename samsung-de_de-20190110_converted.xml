@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feed xmlns="http://www.bazaarvoice.com/xs/PRR/StandardClientFeed/14.7" name="samsung-de_de" extractDate="2019-01-09T12:25:46.000-00:00">
+    <Product id="SM-G960FZBDDBT">
+        <ExternalId>SM-G960FZBDDBT</ExternalId>
+        <Reviews>
+            <Review id="24544431">
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <UserProfileReference id="fccb2456-0f77-11e9-aa34-1a7bdcdfad4a">
+                    <ExternalId>fccb2456-0f77-11e9-aa34-1a7bdcdfad4a</ExternalId>
+                    <DisplayName>B.</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <Rating>4</Rating>
+                <ReviewerLocation>Berlin</ReviewerLocation>
+                <SubmissionTime>2019-01-03T16:52:42</SubmissionTime>
+                <DisplayLocale>de_DE</DisplayLocale>
+                <AdditionalFields>
+                    <AdditionalField id="Pros">
+                        <DisplayLabel>Plus</DisplayLabel>
+                        <Value>Kamera- und Kamerabedienung hervorragend</Value>
+                     </AdditionalField>
+                    <AdditionalField id="Cons">
+                        <DisplayLabel>Minus</DisplayLabel>
+                        <Value>Fingerabdruckscanner hinten ist unpraktisch. Weiterhin ist due Email-App schlechter als bei S7. Man kann die Mails nicht mehr in bereits angelegte Ordner verschieben.</Value>
+                     </AdditionalField>
+                </AdditionalFields>
+            </Review>
+        </Reviews>
+    </Product>
+    <Product id="SM-T835NZAADBT">
+        <ExternalId>SM-T835NZAADBT</ExternalId>
+        <Reviews>
+            <Review id="24543924">
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <UserProfileReference id="ffa0cbbe-0fee-11e9-b6dd-aa3a949d0185">
+                    <ExternalId>ffa0cbbe-0fee-11e9-b6dd-aa3a949d0185</ExternalId>
+                    <DisplayName>Anonymous</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <Rating>4</Rating>
+                <SubmissionTime>2019-01-04T07:04:37</SubmissionTime>
+                <DisplayLocale>de_DE</DisplayLocale>
+            </Review>
+        </Reviews>
+    </Product>
+    <Product id="SM-A530FZKDDBT">
+        <ExternalId>SM-A530FZKDDBT</ExternalId>
+        <Reviews>
+            <Review id="24539580">
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <UserProfileReference id="b4904d18-0f6a-11e9-87c0-a60a179697be">
+                    <ExternalId>b4904d18-0f6a-11e9-87c0-a60a179697be</ExternalId>
+                    <DisplayName>Stefan</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <Rating>5</Rating>
+                <ReviewerLocation>Friedrichsdorf</ReviewerLocation>
+                <SubmissionTime>2019-01-03T15:17:38</SubmissionTime>
+                <DisplayLocale>de_DE</DisplayLocale>
+            </Review>
+        </Reviews>
+    </Product>
+    <Product id="SM-T595NZAADBT">
+        <ExternalId>SM-T595NZAADBT</ExternalId>
+        <Reviews>
+            <Review id="24536729">
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <UserProfileReference id="1a593b88-0f47-11e9-9002-aeb90a3abab1">
+                    <ExternalId>1a593b88-0f47-11e9-9002-aeb90a3abab1</ExternalId>
+                    <DisplayName>Anonymous</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <Rating>5</Rating>
+                <SubmissionTime>2019-01-03T11:02:47</SubmissionTime>
+                <DisplayLocale>de_DE</DisplayLocale>
+            </Review>
+        </Reviews>
+    </Product>
+    <Product id="SM-G935FZKADBT">
+        <ExternalId>SM-G935FZKADBT</ExternalId>
+        <Reviews>
+            <Review id="24529917">
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <UserProfileReference id="e89c6dd8-0ebd-11e9-bacf-12661a0a1dbb">
+                    <ExternalId>e89c6dd8-0ebd-11e9-bacf-12661a0a1dbb</ExternalId>
+                    <DisplayName>Anonymous</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <Rating>4</Rating>
+                <SubmissionTime>2019-01-02T18:40:42</SubmissionTime>
+                <DisplayLocale>de_DE</DisplayLocale>
+            </Review>
+        </Reviews>
+    </Product>
+    <Product id="SM-T819NZWEDBT">
+        <ExternalId>SM-T819NZWEDBT</ExternalId>
+        <Reviews>
+            <Review id="24520477">
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <UserProfileReference id="de06e1b4-0e68-11e9-915d-1ef8c183ff7e">
+                    <ExternalId>de06e1b4-0e68-11e9-915d-1ef8c183ff7e</ExternalId>
+                    <DisplayName>Wolfgang</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <Rating>4</Rating>
+                <ReviewerLocation>Hohenpolding</ReviewerLocation>
+                <SubmissionTime>2019-01-02T08:31:57</SubmissionTime>
+                <DisplayLocale>de_DE</DisplayLocale>
+            </Review>
+        </Reviews>
+    </Product>
+    <Product id="SM-G960FZDDDBT">
+        <ExternalId>SM-G960FZDDDBT</ExternalId>
+        <Reviews>
+            <Review id="24519484">
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <UserProfileReference id="c191f366-0e22-11e9-93c7-1e4c8a53d4dc">
+                    <ExternalId>c191f366-0e22-11e9-93c7-1e4c8a53d4dc</ExternalId>
+                    <DisplayName>Sezgin</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <Rating>5</Rating>
+                <ReviewerLocation>Altbach</ReviewerLocation>
+                <SubmissionTime>2019-01-02T00:10:05</SubmissionTime>
+                <DisplayLocale>de_DE</DisplayLocale>
+                <AdditionalFields>
+                    <AdditionalField id="Pros">
+                        <DisplayLabel>Plus</DisplayLabel>
+                        <Value>Qualität design und robustheit nun auf iphone niveau oder sogar darüber</Value>
+                     </AdditionalField>
+                </AdditionalFields>
+            </Review>
+        </Reviews>
+    </Product>
+    <Product id="SM-G965FZBDDBT">
+        <ExternalId>SM-G965FZBDDBT</ExternalId>
+        <Reviews>
+            <Review id="24511726">
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <UserProfileReference id="f3b82ef4-0d38-11e9-8ab5-da6fe88bf0e1">
+                    <ExternalId>f3b82ef4-0d38-11e9-8ab5-da6fe88bf0e1</ExternalId>
+                    <DisplayName>Anonymous</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <Rating>5</Rating>
+                <SubmissionTime>2018-12-31T20:16:26</SubmissionTime>
+                <DisplayLocale>de_DE</DisplayLocale>
+            </Review>
+        </Reviews>
+    </Product>
+    <Product id="GQ65Q8FNGTXZG">
+        <ExternalId>GQ65Q8FNGTXZG</ExternalId>
+        <Reviews>
+            <Review id="24048460">
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <UserProfileReference id="69f2f08e-dcfd-11e8-8406-fa9ec293cb6a">
+                    <ExternalId>69f2f08e-dcfd-11e8-8406-fa9ec293cb6a</ExternalId>
+                    <DisplayName>TSMZ</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <Rating>5</Rating>
+                <ReviewerLocation>Hamburg</ReviewerLocation>
+                <SubmissionTime>2018-10-31T11:09:19</SubmissionTime>
+                <DisplayLocale>de_DE</DisplayLocale>
+                <NumPositiveFeedbacks>1</NumPositiveFeedbacks>
+                <AdditionalFields>
+                    <AdditionalField id="Pros">
+                        <DisplayLabel>Plus</DisplayLabel>
+                        <Value>Smart Remote</Value>
+                     </AdditionalField>
+                    <AdditionalField id="Cons">
+                        <DisplayLabel>Minus</DisplayLabel>
+                        <Value>Werbung im Menü</Value>
+                     </AdditionalField>
+                </AdditionalFields>
+            </Review>
+        </Reviews>
+    </Product>
+    <Product id="SM-A605FZVNDBT">
+        <ExternalId>SM-A605FZVNDBT</ExternalId>
+        <Reviews>
+            <Review id="24505236">
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <UserProfileReference id="28374b18-0c7d-11e9-b1df-0e5d33732827">
+                    <ExternalId>28374b18-0c7d-11e9-b1df-0e5d33732827</ExternalId>
+                    <DisplayName>Sigurd</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <Rating>5</Rating>
+                <ReviewerLocation>Menden</ReviewerLocation>
+                <SubmissionTime>2018-12-30T21:52:09</SubmissionTime>
+                <DisplayLocale>de_DE</DisplayLocale>
+                <AdditionalFields>
+                    <AdditionalField id="Pros">
+                        <DisplayLabel>Plus</DisplayLabel>
+                        <Value>Finger Sensor zum Entsperren des Gerätes .</Value>
+                     </AdditionalField>
+                    <AdditionalField id="Cons">
+                        <DisplayLabel>Minus</DisplayLabel>
+                        <Value>Keine slowmotion Funktion und keine Panorama Funktion.</Value>
+                     </AdditionalField>
+                </AdditionalFields>
+            </Review>
+        </Reviews>
+    </Product>
+    <Product id="SM-G965FZDDDBT">
+        <ExternalId>SM-G965FZDDDBT</ExternalId>
+        <Reviews>
+            <Review id="24503031">
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <UserProfileReference id="10c65396-0c57-11e9-8331-ca420ce1700c">
+                    <ExternalId>10c65396-0c57-11e9-8331-ca420ce1700c</ExternalId>
+                    <DisplayName>Helmut</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <Rating>5</Rating>
+                <ReviewerLocation>Boxberg</ReviewerLocation>
+                <SubmissionTime>2018-12-30T17:19:29</SubmissionTime>
+                <DisplayLocale>de_DE</DisplayLocale>
+                <AdditionalFields>
+                    <AdditionalField id="Pros">
+                        <DisplayLabel>Plus</DisplayLabel>
+                        <Value>Kamera, Display, Form, Akku</Value>
+                     </AdditionalField>
+                    <AdditionalField id="Cons">
+                        <DisplayLabel>Minus</DisplayLabel>
+                        <Value>Das offline Handbuch, Bildtelefon</Value>
+                     </AdditionalField>
+                </AdditionalFields>
+            </Review>
+        </Reviews>
+    </Product>
+    <Product id="SM-T595NZAADBT">
+        <ExternalId>SM-T595NZAADBT</ExternalId>
+        <Reviews>
+            <Review id="24134848">
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <UserProfileReference id="c432f1ae-e598-11e8-a58d-0abbd4063a78">
+                    <ExternalId>c432f1ae-e598-11e8-a58d-0abbd4063a78</ExternalId>
+                    <DisplayName>Zocher</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <Rating>5</Rating>
+                <ReviewerLocation>Thale</ReviewerLocation>
+                <SubmissionTime>2018-11-11T10:01:32</SubmissionTime>
+                <DisplayLocale>de_DE</DisplayLocale>
+                <AdditionalFields>
+                    <AdditionalField id="Pros">
+                        <DisplayLabel>Plus</DisplayLabel>
+                        <Value>Sehr leicht. Schönes Format</Value>
+                     </AdditionalField>
+                    <AdditionalField id="Cons">
+                        <DisplayLabel>Minus</DisplayLabel>
+                        <Value>Fingerabdrucksensor fehlt.</Value>
+                     </AdditionalField>
+                </AdditionalFields>
+            </Review>
+        </Reviews>
+    </Product>
+    <Product id="SM-J330FZDDDBT">
+        <ExternalId>SM-J330FZDDDBT</ExternalId>
+        <Reviews>
+            <Review id="24358730">
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <UserProfileReference id="5bdaa8bc-fd3b-11e8-ba63-428ec2dd65d4">
+                    <ExternalId>5bdaa8bc-fd3b-11e8-ba63-428ec2dd65d4</ExternalId>
+                    <DisplayName>Ralf</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <Rating>4</Rating>
+                <ReviewerLocation>Xanten</ReviewerLocation>
+                <SubmissionTime>2018-12-11T11:53:22</SubmissionTime>
+                <DisplayLocale>de_DE</DisplayLocale>
+                <AdditionalFields>
+                    <AdditionalField id="Pros">
+                        <DisplayLabel>Plus</DisplayLabel>
+                        <Value>Das es so aufgemacht ist wie das S7...</Value>
+                     </AdditionalField>
+                    <AdditionalField id="Cons">
+                        <DisplayLabel>Minus</DisplayLabel>
+                        <Value>Das die Beleuchtung für die touch Key Tastatur und die LED fehlt.</Value>
+                     </AdditionalField>
+                </AdditionalFields>
+            </Review>
+        </Reviews>
+    </Product>
+    <Product id="SM-G965FZBDDBT">
+        <ExternalId>SM-G965FZBDDBT</ExternalId>
+        <Reviews>
+            <Review id="24496310">
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <UserProfileReference id="a87dba74-0bc8-11e9-8ab5-da6fe88bf0e1">
+                    <ExternalId>a87dba74-0bc8-11e9-8ab5-da6fe88bf0e1</ExternalId>
+                    <DisplayName>Anonymous</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <Rating>5</Rating>
+                <SubmissionTime>2018-12-30T00:20:05</SubmissionTime>
+                <DisplayLocale>de_DE</DisplayLocale>
+                <AdditionalFields>
+                    <AdditionalField id="Pros">
+                        <DisplayLabel>Plus</DisplayLabel>
+                        <Value>Akku design und vieles ist ok</Value>
+                     </AdditionalField>
+                    <AdditionalField id="Cons">
+                        <DisplayLabel>Minus</DisplayLabel>
+                        <Value>Menü nicht so einfach zu verstehen</Value>
+                     </AdditionalField>
+                </AdditionalFields>
+            </Review>
+        </Reviews>
+    </Product>
+    <Product id="SM-G955FZKADBT">
+        <ExternalId>SM-G955FZKADBT</ExternalId>
+        <Reviews>
+            <Review id="24491927">
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <UserProfileReference id="ac1e4122-0a96-11e9-8af5-ce54c626f379">
+                    <ExternalId>ac1e4122-0a96-11e9-8af5-ce54c626f379</ExternalId>
+                    <DisplayName>Michael</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <Rating>1</Rating>
+                <ReviewerLocation>Mühlhausen</ReviewerLocation>
+                <SubmissionTime>2018-12-28T11:49:46</SubmissionTime>
+                <DisplayLocale>de_DE</DisplayLocale>
+                <AdditionalFields>
+                    <AdditionalField id="Pros">
+                        <DisplayLabel>Plus</DisplayLabel>
+                        <Value>Die gewohnte handhabung</Value>
+                     </AdditionalField>
+                    <AdditionalField id="Cons">
+                        <DisplayLabel>Minus</DisplayLabel>
+                        <Value>Von Anfang an sehr schlechte Antenne.   Jetzt kein Empfang mehr</Value>
+                     </AdditionalField>
+                </AdditionalFields>
+            </Review>
+        </Reviews>
+    </Product>
+    <Product id="SM-G965FZPADBT">
+        <ExternalId>SM-G965FZPADBT</ExternalId>
+        <Reviews>
+            <Review id="24483521">
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <UserProfileReference id="c5f9a86e-0aca-11e9-8331-ca420ce1700c">
+                    <ExternalId>c5f9a86e-0aca-11e9-8331-ca420ce1700c</ExternalId>
+                    <DisplayName>Anonymous</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <Rating>5</Rating>
+                <SubmissionTime>2018-12-28T18:02:43</SubmissionTime>
+                <DisplayLocale>de_DE</DisplayLocale>
+            </Review>
+        </Reviews>
+    </Product>
+    <Product id="GQ55Q6FNGTXZG">
+        <ExternalId>GQ55Q6FNGTXZG</ExternalId>
+        <Reviews>
+            <Review id="23835373">
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <UserProfileReference id="409b23d6-cac0-11e8-b768-0286296b893b">
+                    <ExternalId>409b23d6-cac0-11e8-b768-0286296b893b</ExternalId>
+                    <DisplayName>Schneider</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <Rating>4</Rating>
+                <SubmissionTime>2018-10-08T06:06:10</SubmissionTime>
+                <DisplayLocale>de_DE</DisplayLocale>
+                <AdditionalFields>
+                    <AdditionalField id="Pros">
+                        <DisplayLabel>Plus</DisplayLabel>
+                        <Value>Preis</Value>
+                     </AdditionalField>
+                    <AdditionalField id="Cons">
+                        <DisplayLabel>Minus</DisplayLabel>
+                        <Value>Das die Standard- Bildeinstellung mieserabel ist.
+
+Das man nicht entscheiden kann welche
+Apps man löschen möchte</Value>
+                     </AdditionalField>
+                </AdditionalFields>
+            </Review>
+        </Reviews>
+    </Product>
+    <Product id="SM-R760NDAADBT">
+        <ExternalId>SM-R760NDAADBT</ExternalId>
+        <Reviews>
+            <Review id="24482535">
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <UserProfileReference id="b264e9e2-0ab8-11e9-8af5-ce54c626f379">
+                    <ExternalId>b264e9e2-0ab8-11e9-8af5-ce54c626f379</ExternalId>
+                    <DisplayName>Anonymous</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <Rating>5</Rating>
+                <SubmissionTime>2018-12-28T15:53:19</SubmissionTime>
+                <DisplayLocale>de_DE</DisplayLocale>
+            </Review>
+        </Reviews>
+    </Product>
+    <Product id="SM-G965FZKDDBT">
+        <ExternalId>SM-G965FZKDDBT</ExternalId>
+        <Reviews>
+            <Review id="24477747">
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <UserProfileReference id="3be6fef2-0a7e-11e9-929c-0e124de5c494">
+                    <ExternalId>3be6fef2-0a7e-11e9-929c-0e124de5c494</ExternalId>
+                    <DisplayName>Anita</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <Rating>5</Rating>
+                <ReviewerLocation>Völklingen</ReviewerLocation>
+                <SubmissionTime>2018-12-28T08:54:49</SubmissionTime>
+                <DisplayLocale>de_DE</DisplayLocale>
+                <AdditionalFields>
+                    <AdditionalField id="Pros">
+                        <DisplayLabel>Plus</DisplayLabel>
+                        <Value>Die Kamera und das Display</Value>
+                     </AdditionalField>
+                    <AdditionalField id="Cons">
+                        <DisplayLabel>Minus</DisplayLabel>
+                        <Value>Akkulaufzeit</Value>
+                     </AdditionalField>
+                </AdditionalFields>
+            </Review>
+        </Reviews>
+    </Product>
+    <Product id="SM-G935FZKADBT">
+        <ExternalId>SM-G935FZKADBT</ExternalId>
+        <Reviews>
+            <Review id="24475449">
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <UserProfileReference id="e36f44e4-0a39-11e9-8331-ca420ce1700c">
+                    <ExternalId>e36f44e4-0a39-11e9-8331-ca420ce1700c</ExternalId>
+                    <DisplayName>Anonymous</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <Rating>5</Rating>
+                <SubmissionTime>2018-12-28T00:45:35</SubmissionTime>
+                <DisplayLocale>de_DE</DisplayLocale>
+            </Review>
+        </Reviews>
+    </Product>
+    <Product id="SM-J600FZKUDBT">
+        <ExternalId>SM-J600FZKUDBT</ExternalId>
+        <Reviews>
+            <Review id="24474618">
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <UserProfileReference id="9d5eec5c-09ee-11e9-915d-1ef8c183ff7e">
+                    <ExternalId>9d5eec5c-09ee-11e9-915d-1ef8c183ff7e</ExternalId>
+                    <DisplayName>Anonymous</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <Rating>3</Rating>
+                <SubmissionTime>2018-12-27T15:46:45</SubmissionTime>
+                <DisplayLocale>de_DE</DisplayLocale>
+                <AdditionalFields>
+                    <AdditionalField id="Pros">
+                        <DisplayLabel>Plus</DisplayLabel>
+                        <Value>Die Kammer ist sehr ordentlich</Value>
+                     </AdditionalField>
+                    <AdditionalField id="Cons">
+                        <DisplayLabel>Minus</DisplayLabel>
+                        <Value>Umständliche Bedingung</Value>
+                     </AdditionalField>
+                </AdditionalFields>
+            </Review>
+        </Reviews>
+    </Product>
+    <Product id="SM-A520FZDADBT">
+        <ExternalId>SM-A520FZDADBT</ExternalId>
+        <Reviews>
+            <Review id="24474311">
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <UserProfileReference id="9c293256-0a03-11e9-8331-ca420ce1700c">
+                    <ExternalId>9c293256-0a03-11e9-8331-ca420ce1700c</ExternalId>
+                    <DisplayName>Anonymous</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <Rating>4</Rating>
+                <SubmissionTime>2018-12-27T18:17:03</SubmissionTime>
+                <DisplayLocale>de_DE</DisplayLocale>
+            </Review>
+        </Reviews>
+    </Product>
+    <Product id="SM-T719NZWEDBT">
+        <ExternalId>SM-T719NZWEDBT</ExternalId>
+        <Reviews>
+            <Review id="24472165">
+                <ModerationStatus>REJECTED</ModerationStatus>
+                <UserProfileReference id="c2fe817a-09d5-11e9-b91d-d6c3fd7f2b55">
+                    <ExternalId>c2fe817a-09d5-11e9-b91d-d6c3fd7f2b55</ExternalId>
+                    <DisplayName>Bruno</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <Rating>1</Rating>
+                <ReviewerLocation>Betzigau</ReviewerLocation>
+                <SubmissionTime>2018-12-27T12:48:51</SubmissionTime>
+                <DisplayLocale>de_DE</DisplayLocale>
+                <AdditionalFields>
+                    <AdditionalField id="Cons">
+                        <DisplayLabel>Minus</DisplayLabel>
+                        <Value>Gerät ist defekt, die Rücktaste und die linke Taste funktioniert nicht.
+Schlechter Service, keine Austausch nur Reparatur</Value>
+                     </AdditionalField>
+                </AdditionalFields>
+            </Review>
+        </Reviews>
+    </Product>
+    <Product id="GQ65Q8DNGTXZG">
+        <ExternalId>GQ65Q8DNGTXZG</ExternalId>
+        <Reviews>
+            <Review id="24444374">
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <UserProfileReference id="b19008b0-06af-11e9-b1df-0e5d33732827">
+                    <ExternalId>b19008b0-06af-11e9-b1df-0e5d33732827</ExternalId>
+                    <DisplayName>Claus</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <Rating>5</Rating>
+                <ReviewerLocation>Asperg</ReviewerLocation>
+                <SubmissionTime>2018-12-23T12:38:47</SubmissionTime>
+                <DisplayLocale>de_DE</DisplayLocale>
+                <AdditionalFields>
+                    <AdditionalField id="Pros">
+                        <DisplayLabel>Plus</DisplayLabel>
+                        <Value>Das Rahmenlose und sehr gute Bild</Value>
+                     </AdditionalField>
+                    <AdditionalField id="Cons">
+                        <DisplayLabel>Minus</DisplayLabel>
+                        <Value>Die Fernbedienung ist gewöhnungsbedürftig</Value>
+                     </AdditionalField>
+                </AdditionalFields>
+            </Review>
+        </Reviews>
+    </Product>
+    <Product id="SM-N960FZKDDBT">
+        <ExternalId>SM-N960FZKDDBT</ExternalId>
+        <Reviews>
+            <Review id="24463020">
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <UserProfileReference id="690d367c-0884-11e9-b91d-d6c3fd7f2b55">
+                    <ExternalId>690d367c-0884-11e9-b91d-d6c3fd7f2b55</ExternalId>
+                    <DisplayName>S</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <Rating>5</Rating>
+                <ReviewerLocation>Berlin</ReviewerLocation>
+                <SubmissionTime>2018-12-25T20:34:00</SubmissionTime>
+                <DisplayLocale>de_DE</DisplayLocale>
+            </Review>
+        </Reviews>
+    </Product>
+    <Product id="SM-A600FZKNDBT">
+        <ExternalId>SM-A600FZKNDBT</ExternalId>
+        <Reviews>
+            <Review id="24462787">
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <UserProfileReference id="86f5a620-08fb-11e9-8ab5-da6fe88bf0e1">
+                    <ExternalId>86f5a620-08fb-11e9-8ab5-da6fe88bf0e1</ExternalId>
+                    <DisplayName>Anonymous</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <Rating>4</Rating>
+                <SubmissionTime>2018-12-26T10:46:40</SubmissionTime>
+                <DisplayLocale>de_DE</DisplayLocale>
+            </Review>
+        </Reviews>
+    </Product>
+    <Product id="SM-G965FZBDDBT">
+        <ExternalId>SM-G965FZBDDBT</ExternalId>
+        <Reviews>
+            <Review id="24462696">
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <UserProfileReference id="e7ca3278-086e-11e9-a23b-e2d6122a84d2">
+                    <ExternalId>e7ca3278-086e-11e9-a23b-e2d6122a84d2</ExternalId>
+                    <DisplayName>Christian</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <Rating>5</Rating>
+                <ReviewerLocation>Göppingen</ReviewerLocation>
+                <SubmissionTime>2018-12-25T18:00:03</SubmissionTime>
+                <DisplayLocale>de_DE</DisplayLocale>
+            </Review>
+        </Reviews>
+    </Product>
+    <Product id="SM-G965FZKDDBT">
+        <ExternalId>SM-G965FZKDDBT</ExternalId>
+        <Reviews>
+            <Review id="24462682">
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <UserProfileReference id="bf915908-0855-11e9-93c7-1e4c8a53d4dc">
+                    <ExternalId>bf915908-0855-11e9-93c7-1e4c8a53d4dc</ExternalId>
+                    <DisplayName>Silke</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <Rating>5</Rating>
+                <ReviewerLocation>Gerolzhofen</ReviewerLocation>
+                <SubmissionTime>2018-12-25T14:59:59</SubmissionTime>
+                <DisplayLocale>de_DE</DisplayLocale>
+                <AdditionalFields>
+                    <AdditionalField id="Pros">
+                        <DisplayLabel>Plus</DisplayLabel>
+                        <Value>Qualität</Value>
+                     </AdditionalField>
+                </AdditionalFields>
+            </Review>
+        </Reviews>
+    </Product>
+    <Product id="GQ49Q6FNGTXZG">
+        <ExternalId>GQ49Q6FNGTXZG</ExternalId>
+        <Reviews>
+            <Review id="24462574">
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <UserProfileReference id="bc14f44c-07b0-11e9-b91d-d6c3fd7f2b55">
+                    <ExternalId>bc14f44c-07b0-11e9-b91d-d6c3fd7f2b55</ExternalId>
+                    <DisplayName>Anonymous</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <Rating>4</Rating>
+                <SubmissionTime>2018-12-24T19:18:46</SubmissionTime>
+                <DisplayLocale>de_DE</DisplayLocale>
+                <AdditionalFields>
+                    <AdditionalField id="Cons">
+                        <DisplayLabel>Minus</DisplayLabel>
+                        <Value>Fernbedienung</Value>
+                     </AdditionalField>
+                </AdditionalFields>
+            </Review>
+        </Reviews>
+    </Product>
+    <Product id="GQ55Q6FNGTXZG">
+        <ExternalId>GQ55Q6FNGTXZG</ExternalId>
+        <Reviews>
+            <Review id="24462536">
+                <ModerationStatus>APPROVED</ModerationStatus>
+                <UserProfileReference id="02f1652e-07cc-11e9-915d-1ef8c183ff7e">
+                    <ExternalId>02f1652e-07cc-11e9-915d-1ef8c183ff7e</ExternalId>
+                    <DisplayName>Lafi</DisplayName>
+                    <Anonymous>false</Anonymous>
+                    <HyperlinkingEnabled>false</HyperlinkingEnabled>
+                </UserProfileReference>
+                <Rating>4</Rating>
+                <ReviewerLocation>Herzberg</ReviewerLocation>
+                <SubmissionTime>2018-12-24T22:34:01</SubmissionTime>
+                <DisplayLocale>de_DE</DisplayLocale>
+                <AdditionalFields>
+                    <AdditionalField id="Pros">
+                        <DisplayLabel>Plus</DisplayLabel>
+                        <Value>Einfache Einrichtung und super voreingestelltes Bild</Value>
+                     </AdditionalField>
+                    <AdditionalField id="Cons">
+                        <DisplayLabel>Minus</DisplayLabel>
+                  
