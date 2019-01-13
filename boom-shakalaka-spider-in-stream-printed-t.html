@@ -598,6 +598,28 @@
                 //End product-options script
             </script>
 <div id="test"></div>
+<script>
+            // bvCallback must be used when interacting with BV via JavaScript and using the `async` attribute.
+            window.bvCallback = function (BV) {
+            var configData = {};
+            configData.events = {
+                submissionLoad: function(data) {
+                    document.getElementById('test').innerHTML = 'submissionLoad';
+                },
+                submissionClose: function(data) {
+                    document.getElementById('test').innerHTML = 'submissionClose';
+                },
+                submissionSubmitted: function(data) {
+                    document.getElementById('test').innerHTML = 'submissionSubmitted';
+                },
+                bvRender: function(data) {
+                    document.getElementById('test').innerHTML = 'bvRender';
+
+                },
+            };
+            $BV.configure("global", configData);
+            };
+          </script>
     </body>
 
 </html>
