@@ -289,8 +289,7 @@
                             <!-- Begin breadcrumb -->
                             <div class="span12">
                                 <div class="breadcrumb clearfix"> <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://web.archive.org/web/20151121050653/http://www.delventosdoodles.com/" title="Del Vento&#39;s Doodles" itemprop="url"><span itemprop="title">Home</span></a>
-                                    </span>
-                                    <span class="arrow-space">&#62;</span> <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                                    </span> <span class="arrow-space">&#62;</span> <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
 
             <a href="https://web.archive.org/web/20151121050653/http://www.delventosdoodles.com/collections/all" title="Boom Shakalaka Spider" itemprop="url">
               <span itemprop="title">Boom Shakalaka Spider</span> </a>
@@ -504,23 +503,25 @@
                     catalogData: {
                         locale: "en_AU",
                         catalogProducts: [{
-                                "productId": "Product3",
-                                "productName": "Boom Shakalaka Spider in Stream - Original Artwork 1 of 1",
-                                "productImageURL": "https://bvwillhui.github.io/ie-onboarding-mock-implementation/boom-shakalaka-spider-in-stream-original-artwork-1-of-1.html",
-                                "productPageURL": "https://bvwillhui.github.io/ie-onboarding-mock-implementation/static/boom-shakalaka-reprint-color_8e754d6d-5903-44b3-81ce-dd85950df1e4_large.png",
-                                "brandName": "Del Vento's Doodles",
-                                "brandId": "doodles",
-                                "categoryPath": [{
-                                        "id": "artwork",
-                                        "Name": "Artwork"
-                                    }, "families": [{
-                                        "id": "family_one",
-                                        "expand": true,
-                                        "members": ["Product3", "Product4"]
-                                    }]
-                                }], "inactive": false,
-                        }]
-                }};
+                            "productId": "Product3",
+                            "productName": "Boom Shakalaka Spider in Stream - Original Artwork 1 of 1",
+                            "productImageURL": "https://bvwillhui.github.io/ie-onboarding-mock-implementation/boom-shakalaka-spider-in-stream-original-artwork-1-of-1.html",
+                            "productPageURL": "https://bvwillhui.github.io/ie-onboarding-mock-implementation/static/boom-shakalaka-reprint-color_8e754d6d-5903-44b3-81ce-dd85950df1e4_large.png",
+                            "brandName": "Del Vento's Doodles",
+                            "brandId": "doodles",
+                            "categoryPath": [{
+                                "id": "artwork",
+                                "Name": "Artwork"
+                            }],
+                            "families": [{
+                                "id": "family_one",
+                                "expand": true,
+                                "members": ["Product3", "Product4"]
+                            }]
+                        }],
+                        "inactive": false,
+                    }]
+                };
                 window.bvCallback = function(BV) {
                     BV.reviews.on('show', function(e) {
                         $('button.bv_stars_button_container.bv_ffs_hover').on('click', function() {
