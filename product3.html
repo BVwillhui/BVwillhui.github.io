@@ -1,12 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <script async src="https://apps.bazaarvoice.com/deployments/ie-whui/original/staging/en_AU/bv.js" data-bv-callback="bvCallback"></script>
-</head>
-<body>
-  <div data-bv-show="reviews" data-bv-product-id="Product3"></div>
-</body>
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <script async src="https://apps.bazaarvoice.com/deployments/ie-whui/original/staging/en_AU/bv.js"></script>
+    </head>
+
+    <body>
+        <div data-bv-show="reviews" data-bv-product-id="Product3"></div>
+        <script async type="text/javascript">
+            window.bvDCC = {
+                catalogData: {
+                    locale: "en_AU",
+                    catalogProducts: [{
+                        "productId": "201828_404",
+                        "productName": "The Brodie",
+                        "productDescription": "The%20Brodie%20by%20Clarks%20are%20high%20top%20sneakers%20with%20an%20urban%20edge.%20In%20contrasting%20textures%20and%20visible%20lining%2C%20these%20shoes%20deliver%20on%20style%20and%20comfort.%20Inside%20zips%20for%20easy%20foot%20entry%20%28no%20need%20to%20tie%20laces%20every%20time%29%20Cushioning%20around%20heel%20collars%20hugs%20the%20ankles%20for%20comfort%20and%20support%20Breathable%20mesh%20linings%20keep%20feet%20fresh%20Flexible%2C%20lightweight%20soles%20for%20active%20play%20A%20casual%20high%20top%20sneakers%2C%20perfect%20for%20everyday%20wear",
+                        "productImageURL": "https://bvwillhui.github.io/static/boom-shakalaka-reprint-color_1024x1024.png",
+                        "productPageURL": "https://bvwillhui.github.io/boom-shakalaka-spider-in-stream-original-artwork-1-of-1.html",
+                        "categoryPath": [{
+                            "Name": "Home"
+                        }, {
+                            "Name": "BOYS"
+                        }, {
+                            "Name": "Brodie Navy"
+                        }],
+                        "eans": ["9314300235378"],
+                        "family": "201828",
+                        "inactive": false,
+                    }]
+                }
+            };
+            window.bvCallback = function(BV) {
+                BV.pixel.trackEvent("CatalogUpdate", {
+                    type: 'Product',
+                    locale: window.bvDCC.catalogData.locale,
+                    catalogProducts: window.bvDCC.catalogData.catalogProducts
+                });
+            };
+        </script>
+    </body>
+
 </html>
